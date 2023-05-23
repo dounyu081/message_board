@@ -10,8 +10,8 @@
     </head>
     <body>
         <div id="wrapper">
-            <div>
-                <h1>メッセージボード アプリケーション</h1>
+            <div id="header">
+                 <h1>メッセージボード アプリケーション</h1>
             </div>
             <div id="content">
                 ${param.content}
